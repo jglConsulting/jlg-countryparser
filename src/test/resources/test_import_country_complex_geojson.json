@@ -1,0 +1,6 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+  { "type": "Feature", "properties": { "REGION": "Europe", "NAME": "Croatia" }, "geometry": { "type": "MultiPolygon", "coordinates": [[[[19.397320, 42.317070], [19.469709, 42.399990], [19.397320, 42.317070]]],[[[22.397320, 42.317070], [22.469709, 42.399990], [22.397320, 42.317070]]]] } }
+]
+}

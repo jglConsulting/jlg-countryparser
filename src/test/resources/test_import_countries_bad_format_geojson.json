@@ -1,0 +1,5 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    { "type": "Feature", "properties": { "REGION": "Europe", "NAME": "Albania" }, "geomet": { "type": "Polygon", "coordinates": [[[19.397320, 42.317070], [19.469709, 42.399990], [19.397320, 42.317070]]] } }
+]}

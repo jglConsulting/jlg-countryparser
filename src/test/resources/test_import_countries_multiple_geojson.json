@@ -1,0 +1,7 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    { "type": "Feature", "properties": { "REGION": "Europe", "NAME": "Albania" }, "geometry": { "type": "Polygon", "coordinates": [[[19.397320, 42.317070], [19.469709, 42.399990], [19.397320, 42.317070]]] } },
+    { "type": "Feature", "properties": { "REGION": "Europe", "NAME": "Andorra" }, "geometry": { "type": "Polygon", "coordinates": [[[1.710967, 42.473499], [1.533333, 42.436100], [1.710967, 42.473499]]] } }
+]
+}

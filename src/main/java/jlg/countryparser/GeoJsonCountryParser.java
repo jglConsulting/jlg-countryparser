@@ -83,7 +83,7 @@ public class GeoJsonCountryParser implements CountryFileParser {
         }
 
         double[] coordinatesAsArray = new double[countryCoordinates.size()];
-        for(int i=0; i<coordinates.size(); i++){
+        for(int i=0; i<countryCoordinates.size(); i++){
             coordinatesAsArray[i] = countryCoordinates.get(i);
         }
 
